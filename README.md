@@ -1,5 +1,5 @@
 # js2xlsx
-## Piccolo script di esempio in JS per creare file excel (.xlsx) Client-Side
+## Piccolo script di esempio in JS per creare file Excel (.xlsx) Client-Side
 
 ### Componenti richiesti
 
